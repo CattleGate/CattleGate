@@ -2,9 +2,9 @@
 
 Herd records software for small and mid-size cattle operations. It runs on your own Windows PC, keeps your records on your own PC, and costs nothing.
 
-**[Download CattleGate for Windows](https://github.com/EastTexCowboy/CattleGate/releases/latest/download/CattleGate-Setup.exe)**
+**[Download CattleGate for Windows](https://github.com/CattleGate/CattleGate/releases/latest/download/CattleGate-Setup.exe)**
 
-Older versions and release notes are on the [Releases](https://github.com/EastTexCowboy/CattleGate/releases) page.
+Older versions and release notes are on the [Releases](https://github.com/CattleGate/CattleGate/releases) page.
 
 ## Three promises
 
